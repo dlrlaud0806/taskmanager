@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946598564236",
+    "project_id": "plannerapp-4baf3",
+    "storage_bucket": "plannerapp-4baf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946598564236:android:2ea5b98ae225c8dc44c6a9",
+        "android_client_info": {
+          "package_name": "com.example.taskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946598564236-e1u6k0k79bt82r2rik2r627m5jrd9d2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskmanager",
+            "certificate_hash": "5b5802958d0878c67b7df6605b6a657c55fb5a3e"
+          }
+        },
+        {
+          "client_id": "946598564236-mld8638udnuscisqvffaen8chrsrj65l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlDZ8jRx0D6vtqlxHOL6tK3ULLhO0Q68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946598564236-mld8638udnuscisqvffaen8chrsrj65l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
